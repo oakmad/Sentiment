@@ -1,0 +1,9 @@
+This is some of my work on sentiment analysis using Python.
+
+disseration.py
+
+The software portion of my MSc dissertation. This requires NLTK (http://www.nltk.org) and BeautifulSoup (http://www.crummy.com/software/BeautifulSoup/) for web crawling.
+
+pandlee.py 
+
+Is based on the work of Pang and Lee and uses SVM for clasifying the data. The application just build the fold files for the SVM of choice. NLTK is required to identify stop words but it also contains Pang and Lee's test data which is handy.
